@@ -33,7 +33,7 @@ jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 # JupyterLab: Open URL as a parameter (optional)
-# jupyterlab-open-url-parameter
+jupyterlab-open-url-parameter
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
