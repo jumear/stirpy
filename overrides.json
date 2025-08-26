@@ -12,8 +12,8 @@
     ]
   },
   "@jupyterlab/apputils-extension:themes": {
-    "autoSwitchTheme": true,
-    "theme": "JupyterLab Light",    
-    "themeScrollbars": true
+    "theme": "JupyterLab Light",
+    "themeScrollbars": true,
+    "autoSwitchTheme": true
   }
 }
