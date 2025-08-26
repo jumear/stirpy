@@ -12,6 +12,8 @@
     ]
   },
   "@jupyterlab/apputils-extension:themes": {
-    "theme": "JupyterLab Dark"
+    "autoSwitchTheme": true,
+    "theme": "JupyterLab Light",    
+    "themeScrollbars": true
   }
 }
